@@ -1,0 +1,7 @@
+# Ignore specific files
+.DS_Store
+
+
+# Ignore directories
+Build/**/*
+*/xcuserdata
